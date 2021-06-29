@@ -1,5 +1,5 @@
 # AWS EC2 start/stop functions
----
+
 It's been surprisingly hard to schedule AWS EC2 instances launches/stops. 
 This repo contains a set of artifacts to make it working in 10 minutes for simple cases when you need to launch/terminate a few instances. The following installation guide describes how to end up having an instance launched on working days at 09:45 and terminating at 10:10.
 Inspired by https://blog.goodmirek.com/periodically-start-and-stop-ec2-instance-bf25c01e68f1
